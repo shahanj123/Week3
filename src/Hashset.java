@@ -17,7 +17,6 @@ public class Hashset {
 		System.out.println("Arraylist is: "+ arl);
 		Object[] ar= hs.toArray();
 		System.out.println("Array is: " + Arrays.toString(ar));
-		
 
 	}
 
